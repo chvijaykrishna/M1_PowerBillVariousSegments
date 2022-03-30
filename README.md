@@ -1,1 +1,2 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/66d78eb40c704e808719ff2fe9ea9a12)](https://app.codacy.com/gh/chvijaykrishna/M1_PowerBillVariousSegments?utm_source=github.com&utm_medium=referral&utm_content=chvijaykrishna/M1_PowerBillVariousSegments&utm_campaign=Badge_Grade_Settings)
 [![Build_CI - Linux](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/c-cpp.yml)
