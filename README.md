@@ -3,3 +3,5 @@
 [![Analysis](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/Analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/Analysis.yml)
 ![Codiga grade](https://api.codiga.io/project/32246/status/svg)
 [![Bulid CI - windows](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/windows.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/windows.yml)
+[![Code Quality - Cppcheck](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/cpp.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/cpp.yml)
+[![Git Inspector](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml)
