@@ -1,4 +1,4 @@
-name: Build CI - Windows
+name: Analysis
 
 on:
   push:
@@ -13,8 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Install-Cppcheck
+    - name: Install
       run: sudo apt-get install cppcheck
-    - name: Analyse
+    - name: analyse
       run: cppcheck --enable=all 3_Implementation
-
