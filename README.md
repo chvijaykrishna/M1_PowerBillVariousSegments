@@ -1,1 +1,1 @@
-
+[![Build_CI - Linux](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/c-cpp.yml)
