@@ -49,3 +49,6 @@ Codacy
 2. Makefiles
 
 ## Learning Resources
+1) Youtube Videos
+2) [Git hub Training](https://lab.github.com/githubtraining/introduction-to-github)
+3) []()
