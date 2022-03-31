@@ -50,7 +50,7 @@ There are different charges can be appiled, mostly electricity charge is based o
 | HR02 | User need to provide the Name | Implemented |
 | HR03 | User need to provide their Meter ID | Implemented | 
 | HR04 | User need to provide their Email ID | Implemented | 
-| HR05 | User need to provide their Permanent | Implemented | 
+| HR05 | User need to provide their Permanent Address | Implemented | 
 | HR06 | User need to provide their Mobile Number | Implemented |
 
 
