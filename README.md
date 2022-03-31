@@ -5,3 +5,4 @@
 [![Bulid CI - windows](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/windows.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/windows.yml)
 [![Code Quality - Cppcheck](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/cpp.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/cpp.yml)
 [![Git Inspector](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml)
+[![Unit Testing - Unity](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/unit_test.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/unit_test.yml)
