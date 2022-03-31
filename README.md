@@ -14,3 +14,13 @@ But I am Considering four Segments
 
 There are different charges can be appiled, mostly electricity charge is based on what type of segment is it.
 At first the user have to provide the details like first name, last name, email, Meter ID, Number of Units Consumed, and phone number. After that the program will calculate the total bill and shows in indian Rupees
+
+
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `0_Certificates`  | It contains Certificates ( C Programming, Linux, Git Hub, Screenshot of First Day on Git |
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Architecture`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_Test_plan`      | Documents with test plans and procedures|
