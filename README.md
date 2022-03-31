@@ -5,8 +5,7 @@
 
 ## Title : Power Bill  in Various Segments
 
-In this project Electricity invoice is prepared by using C programming language, We know that we have various segments to claculate the invoice of electricity usage.
-But I am Considering four Segments
+In this project Electricity invoice is prepared by using C programming language, We know that we have various segments to claculate the invoice of electricity usage, like....
 1) Domestic Segment
 2) Institutional Segment
 3) Industry Segment
