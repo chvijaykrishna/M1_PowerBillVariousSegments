@@ -23,4 +23,4 @@ At first the user have to provide the details like first name, last name, email,
 | `1_Requirements`   | Documents detailing requirements and research|
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code(Source Code and Makefile) and documentation|
-| `4_Test_plan`      | Documents with test plans and procedures|
+| `4_TestPlanAndOutput`      | Documents with test plans and procedures|
