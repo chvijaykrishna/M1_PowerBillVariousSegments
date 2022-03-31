@@ -19,8 +19,8 @@ At first the user have to provide the details like first name, last name, email,
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
-| `0_Certificates`  | It contains Certificates ( C Programming, Linux, Git Hub, Screenshot of First Day on Git |
+| `0_Certificates`  | It contains Certificates ( C Programming, Linux, Git Hub, Screenshot of First Day on Git)|
 | `1_Requirements`   | Documents detailing requirements and research|
 | `2_Architecture`         | Documents specifying design details|
-| `3_Implementation` | All code and documentation|
+| `3_Implementation` | All code(Source Code and Makefile) and documentation|
 | `4_Test_plan`      | Documents with test plans and procedures|
