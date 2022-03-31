@@ -8,7 +8,7 @@ BUILD_DIR = Build
 SRC =src/FunctionsPowerInvoice.c
 
 # All test source files
-TEST_SRC = test/test_ebook.c\
+TEST_SRC = test/test_PB.c\
 unity/unity.c
 
 # All include folders with header files
