@@ -1,7 +1,7 @@
 #include "unity.h"
 
-#include "methodfunction.h"
-#include "user.h"
+#include "KeyPowerInvoice.h"
+#include "PowerInvoice.h"
 
 
 
@@ -18,10 +18,10 @@ void tearDown(){}
 /* Prototypes for all the test functions */
 
 
-void test_unity(void){
+void test_units(void){
         
-        int sum=1000;
-  	TEST_ASSERT_EQUAL(1,fun6(sum));
+        int unit=60;
+  	TEST_ASSERT_EQUAL(120,units(unit));
       
 }
 
@@ -31,7 +31,7 @@ void test_unity(void){
 int main(void)
 {
 UNITY_BEGIN();
-RUN_TEST(test_unity);
+RUN_TEST(test_units);
 
 return UNITY_END();
 }
