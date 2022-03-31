@@ -43,7 +43,7 @@ Codacy
 
 
 
-## Challenges Faced and How Was It Overcome
+## Challenges Faced
 
 1. Multifile Making
 2. Makefiles
