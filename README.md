@@ -11,4 +11,5 @@ But I am Considering four Segments
 2) Institutional Segment
 3) Industry Segment
 4) Agriculture Segment
+
 There are different charges can be appiled, mostly electricity charge is based on what type of segment is it.
