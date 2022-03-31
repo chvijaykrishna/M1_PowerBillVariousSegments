@@ -29,8 +29,8 @@ There are different charges can be appiled, mostly electricity charge is based o
 1) Simple & Easy to Use
 2) Everyone can use
 3) Easily Calculated the Invoice
-d) Highly Secure, Scalable & Reliable 
-e) Multi Operating System
+4) Highly Secure, Scalable & Reliable 
+5) Multi Operating System
 
 ### Weakness:
 
