@@ -149,3 +149,15 @@ void Agriculture()
     printf("\t\t Otherwise Contact Our Authorized Agent\n");
     printf("\t\t   All Rights Reserved.\n");
 }
+
+int units()
+{
+    int unit=60;
+	if(amount==60){
+		return 120;
+	}
+	else{
+		return 0;
+	}
+
+}
