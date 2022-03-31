@@ -7,3 +7,4 @@
 [![Git Inspector](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml)
 [![Unit Testing - Unity](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/unit_test.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/unit_test.yml)
 [![CodeQuality-Valgrind](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/valgrind.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/valgrind.yml)
+![Codiga grade](https://api.codiga.io/project/32246/score/svg)
