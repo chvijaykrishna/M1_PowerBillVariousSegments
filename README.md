@@ -13,3 +13,4 @@ But I am Considering four Segments
 4) Agriculture Segment
 
 There are different charges can be appiled, mostly electricity charge is based on what type of segment is it.
+At first the user have to provide the details like first name, last name, email, Meter ID, Number of Units Consumed, and phone number. After that the program will calculate the total bill and shows in indian Rupees
