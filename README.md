@@ -50,5 +50,7 @@ Codacy
 
 ## Learning Resources
 1) Youtube Videos
-2) [Git hub Training](https://lab.github.com/githubtraining/introduction-to-github)
-3) []()
+2) Internet Resources
+3) [Git hub Training](https://lab.github.com/githubtraining/introduction-to-github)
+4) [Git handbook](https://docs.github.com/en/get-started/using-git/about-git)
+5) [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
