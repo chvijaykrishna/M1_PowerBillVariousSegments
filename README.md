@@ -24,3 +24,28 @@ At first the user have to provide the details like first name, last name, email,
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code(Source Code and Makefile) and documentation|
 | `4_TestPlanAndOutput`      | Documents with test plans and procedures|
+
+## Code Badges and Score
+
+Codiga
+
+![Codiga grade](https://api.codiga.io/project/32246/score/svg)
+
+![Codiga grade](https://api.codiga.io/project/32246/status/svg)
+
+Codacy
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e101a1c64086447987eb5311d74ffd11)](https://www.codacy.com/gh/chvijaykrishna/M1_PowerBillVariousSegments/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chvijaykrishna/M1_PowerBillVariousSegments&amp;utm_campaign=Badge_Grade)
+
+|Build CI-Linux|Build CI-Windows|Analysis|Unit Test|cppcheck|Valgrind|Git Inspector|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|[![Build_CI - Linux](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/c-cpp.yml)|[![Bulid CI - Windows](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/windows.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/windows.yml)|[![Analysis](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/Analysis.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/Analysis.yml)|[![Unit Testing - Unity](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/unit_test.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/unit_test.yml)|[![Code Quality - Cppcheck](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/cpp.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/cpp.yml)|[![CodeQuality-Valgrind](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/valgrind.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/valgrind.yml)|[![Git Inspector](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/chvijaykrishna/M1_PowerBillVariousSegments/actions/workflows/git_inspector.yml)|
+
+
+
+## Challenges Faced and How Was It Overcome
+
+1. Multifile Making
+2. Makefiles
+
+## Learning Resources
