@@ -22,6 +22,25 @@ There are different charges can be appiled, mostly electricity charge is based o
 4) Increases Efficiency
 5) Simple and Easy to Use
 
+
+## **Swot Analysis:**
+
+### Strengths:
+1) Simple & Easy to Use
+2) Everyone can use
+3) Easily Calculated the Invoice
+d) Highly Secure, Scalable & Reliable 
+e) Multi Operating System
+
+### Weakness:
+
+1) Complicated to operate because of multifile programming
+2) Online Systems require high-speed internet connectivity
+3) Skilled Persons required if any damage of code
+4) Risk of computer virus
+
+
+
 ## **4W'S and 1H:**
 
 ### Who
