@@ -23,6 +23,8 @@ At first the user have to provide the details like first name, last name, email,
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code(Source Code and Makefile) and documentation|
 | `4_TestPlanAndOutput`      | Documents with test plans and procedures|
+| `5 Report`  | Report Document |
+| `6 ImagesAndVideo`      | Images Related To Project|
 
 ## Code Badges and Score
 
